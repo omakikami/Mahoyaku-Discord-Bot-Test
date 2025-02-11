@@ -1,0 +1,28 @@
+{
+  "eventos": [
+    [
+      {
+        "image": "https://static.wikia.nocookie.net/mahoyaku/images/7/74/Fated_Romance_Ayond_Heavenly_Flowerflakes_Event_Banner.png/revision/latest/scale-to-width-down/500?cb=20250210222403",
+        "link": "https://mahoyaku.fandom.com/wiki/Fated_Romance_Ayond_Heavenly_Flowerflakes_Event",
+        "title": "Fated Romance Ayond Heavenly Flowerflakes Event",
+        "gacha": false
+      }
+    ]
+  ],
+  "gachas": [
+    [
+      {
+        "imageWiwi": "https://static.wikia.nocookie.net/mahoyaku/images/e/eb/Mini_Riquet.png/revision/latest/scale-to-width-down/50?cb=20191219073458",
+        "wiwi": "Riquet"
+      },
+      {
+        "imageWiwi": "https://static.wikia.nocookie.net/mahoyaku/images/4/40/Mini_Snow.png/revision/latest/scale-to-width-down/50?cb=20191221095354",
+        "wiwi": "Snow"
+      },
+      {
+        "imageWiwi": "https://static.wikia.nocookie.net/mahoyaku/images/b/b2/Mini_Shino.png/revision/latest/scale-to-width-down/50?cb=20191221135103",
+        "wiwi": "Shino"
+      }
+    ]
+  ]
+}

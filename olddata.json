@@ -1,0 +1,34 @@
+{
+  "eventos": [
+    [
+      {
+        "image": "https://static.wikia.nocookie.net/mahoyaku/images/f/f5/May_Smiles_Blossom_Again_in_this_Kitchen_Event_Banner.png/revision/latest/scale-to-width-down/500?cb=20250120221118",
+        "link": "https://mahoyaku.fandom.com/wiki/May_Smiles_Blossom_Again_in_this_Kitchen_Event",
+        "title": "May Smiles Blossom Again in this Kitchen Event",
+        "gacha": false
+      },
+      {
+        "image": "https://static.wikia.nocookie.net/mahoyaku/images/4/47/May_Smiles_Blossom_Again_in_this_Kitchen_Gacha_Banner.png/revision/latest/scale-to-width-down/500?cb=20250120221626",
+        "link": "https://mahoyaku.fandom.com/wiki/May_Smiles_Blossom_Again_in_this_Kitchen_Gacha",
+        "title": "May Smiles Blossom Again in this Kitchen Gacha",
+        "gacha": true
+      }
+    ]
+  ],
+  "gachas": [
+    [
+      {
+        "imageWiwi": "https://static.wikia.nocookie.net/mahoyaku/images/b/bf/Mini_Cain.png/revision/latest/scale-to-width-down/50?cb=20191219073442",
+        "wiwi": "Cain"
+      },
+      {
+        "imageWiwi": "https://static.wikia.nocookie.net/mahoyaku/images/f/fd/Mini_Mithra.png/revision/latest/scale-to-width-down/50?cb=20191221095455",
+        "wiwi": "Mithra"
+      },
+      {
+        "imageWiwi": "https://static.wikia.nocookie.net/mahoyaku/images/c/c4/Mini_Nero.png/revision/latest/scale-to-width-down/50?cb=20191221142441",
+        "wiwi": "Nero"
+      }
+    ]
+  ]
+}
