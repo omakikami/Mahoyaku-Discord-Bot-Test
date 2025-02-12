@@ -50,7 +50,7 @@ const rest = new REST({ version: "10" }).setToken(token);
 client.once("ready", async () => {
   console.log(`Bot conectado como ${client.user.tag}`);
 
-  client.user.setActivity("hecho por el Omakis", { type: "PLAYING" });
+  client.user.setActivity("Hecho por el Omakis", { type: "PLAYING" });
 });
 
 // Evento para manejar interacciones
