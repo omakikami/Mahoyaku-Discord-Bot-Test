@@ -78,10 +78,7 @@ client.once("ready", async () => {
   //     );
   //   }
   // }
-  client.user.setPresence({
-    activities: [{ name: "hecho por el omakis", type: "PLAYING" }],
-    status: "online",
-  });
+  client.user.setActivity("hecho por el Omakis", { type: "PLAYING" });
 });
 
 // Evento para manejar interacciones
