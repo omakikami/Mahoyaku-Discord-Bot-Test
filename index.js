@@ -50,34 +50,6 @@ const rest = new REST({ version: "10" }).setToken(token);
 client.once("ready", async () => {
   console.log(`Bot conectado como ${client.user.tag}`);
 
-  // Obtén la lista de servidores en los que el bot está presente
-  const guilds = client.guilds.cache;
-
-  // console.log(
-  //   "Eliminando comandos existentes en todos los servidores...",
-  //   JSON.stringify(guilds)
-  // );
-
-  // // Itera sobre todos los servidores y elimina los comandos
-  // for (const guild of guilds.values()) {
-  //   try {
-  //     console.log(
-  //       `Eliminando comandos en el servidor: ${guild.name} (${guild.id})`
-  //     );
-
-  //     // Elimina los comandos de cada servidor
-  //     await rest.put(Routes.applicationGuildCommands(CLIENT_ID, guild.id), {
-  //       body: [],
-  //     });
-
-  //     console.log(`Comandos eliminados en el servidor: ${guild.name}`);
-  //   } catch (error) {
-  //     console.error(
-  //       `Error al eliminar comandos en el servidor ${guild.name}:`,
-  //       error
-  //     );
-  //   }
-  // }
   client.user.setActivity("hecho por el Omakis", { type: "PLAYING" });
 });
 
